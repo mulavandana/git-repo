@@ -1,3 +1,4 @@
 langchain-mcp-adapters==0.3.0
 nest_asyncio==1.6.0
 mcp==1.26.1
+pip==2.02.0
